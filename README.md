@@ -1,2 +1,2 @@
 # coderbyte-solutions
-Solutions to "Easy Difficulty" coding challenges on coderbyte.com using JavaScript.
+Solutions to coding challenges on coderbyte.com using JavaScript.
